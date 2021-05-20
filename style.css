@@ -1,0 +1,162 @@
+
+body {
+    background-image: url(imagens/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-size: 62.5%;
+}
+
+
+#logo img {
+    position: absolute;
+    padding:0 40px;
+}
+#bang{
+    width: 100%;
+}
+#menu a {
+    display: block;
+}
+#menu span {
+    display: none;
+}
+#menu ul li {
+    position: relative;
+    padding:0 80px;
+    display: inline-block;
+    float:right;
+    top:-90px;
+}
+
+
+#denuncie a{
+    background-image:url(imagens/denuncie2.png);
+    background-size: 60px 25px;
+    padding:30px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    
+
+}
+#contato a{
+    background-image:url(imagens/contato2.png);
+    background-size: 60px 20px;
+    padding:30px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+#sobre a{
+    background-image:url(imagens/sobre2.png);
+    background-size: 60px 20px;
+    padding:30px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+#mais a{
+    background-image:url(imagens/mais2.png);
+    background-size: 60px 20px;
+    padding:30px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    
+}
+#denuncie a:hover{
+   background-image:url(imagens/denuncie.png);
+   background-size:100px 30px;
+    padding-right: 80px;
+    background-position:50%;
+}
+#contato a:hover{
+    background-image:url(imagens/contato.png);
+    background-size:100px 30px;
+    padding-right: 80px;
+    background-position:50%;
+}
+#sobre a:hover{
+    background-image:url(imagens/sobre.png);
+    background-size:100px 30px;
+    padding-right: 80px;
+    background-position:50%;
+}
+#mais a:hover{
+    background-image:url(imagens/mais.png);
+    background-size:100px 30px;
+    padding-right: 80px;
+    background-position:50%;
+    
+}
+#conteudo {
+    width:900px;
+    margin:0 auto;
+    background-color:#DCDCDC;
+    border:#318140 10px solid;
+    opacity: 0.9;
+    font-size: 1.6em;
+
+}
+#text h2 {
+    padding:30px;
+}
+
+#text {
+    width:800px;
+    padding: 30px;
+    margin-bottom:80px;
+}
+#text img {
+    padding:5px;
+    float:right;
+    border:#318140 5px solid;
+    margin:5px;
+}
+
+#contato p {
+   padding:50px;
+}
+#sobree h1 {
+    padding:30px;
+}
+#sobree img {
+    float:right;
+    width:600px;
+    height:500px;
+    border:#318140 5px solid;
+}
+#sobree p {
+    margin-left:30px;
+    padding: 10px;
+}
+#maisss p{
+    padding:10px;
+}
+#maisss h3{
+    padding:10px;
+}
+#maisss img {
+    border:#318140 5px solid;
+    padding:10px;
+    margin-left: 200px;
+}
+#denunciee form {
+    padding:30px;
+}
+#placeholder {
+    font-size:5.0em;
+}
+#contatoo p {
+    padding:10px;
+}
+#contatoo h1 {
+   margin-left:330px;
+}
+#contatoo img {
+    margin-left:250px;
+    border:#318140 5px solid;
+    padding:10px;
+}
+#contatoo h3 {
+   text-align:center;
+}
+
+
+
